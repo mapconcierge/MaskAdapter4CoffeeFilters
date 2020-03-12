@@ -1,6 +1,7 @@
-# Mask Adapter for Coffee filters
+# Mask Adapter for Coffee filters コーヒーフィルタ簡易マスク・アダプタ
 
 If you can't get masks for your family and friends, this adapter can make your mask using by coffee filters and bands.
+紙製のコーヒーフィルタ２枚をホチキスで留めてゴムバンドをつけることで、簡単に作成可能なアダプタです。3Dプリンタで出力してお使いください。
 
 
 <img src="https://github.com/mapconcierge/MaskAdapter4CoffeeFilters/blob/master/assets/img/example_style.jpg?raw=true" width="300">
