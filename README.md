@@ -1,4 +1,5 @@
-# Mask Adapter for Coffee filters コーヒーフィルタ簡易マスク・アダプタ
+# Mask Adapter for Coffee filters
+コーヒーフィルタ簡易マスク・アダプタ
 
 If you can't get masks for your family and friends, this adapter can make your mask using by coffee filters and bands.
 
